@@ -31,9 +31,19 @@
       "description": "waaterfalls"
     },
     {
-      "id": "8800",
-      "type": "Mountains",
-      "description": "mountains\n"
+      "id": "022e",
+      "type": "Lakes",
+      "description": "Visit Lakes"
+    }
+  ],
+  "location": [
+    {
+      "id": "1",
+      "name": "Panam City",
+      "description": "Place with Heritage Buildings",
+      "locationType_id": "1",
+      "isPopularPlace": "true",
+      "isSuggestedPlace": "true"
     }
   ]
 }
