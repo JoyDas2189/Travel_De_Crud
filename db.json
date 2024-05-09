@@ -1,0 +1,39 @@
+{
+  "locationType": [
+    {
+      "id": "665c",
+      "type": "Sea Beaches",
+      "description": "Visit  Sea Beaches"
+    },
+    {
+      "id": "ebd2",
+      "type": "Mountains",
+      "description": "Visit Mountains\n"
+    },
+    {
+      "id": "2cf4",
+      "type": "Historical Places",
+      "description": "Visit Historical Places"
+    },
+    {
+      "id": "65d5",
+      "type": "Water Falls",
+      "description": "Visit WaterFalls"
+    },
+    {
+      "id": "41ea",
+      "type": "Lakes",
+      "description": "Visit Lakes\n"
+    },
+    {
+      "id": "8c7d",
+      "type": "Water Falls",
+      "description": "waaterfalls"
+    },
+    {
+      "id": "8800",
+      "type": "Mountains",
+      "description": "mountains\n"
+    }
+  ]
+}
